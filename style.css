@@ -1,0 +1,18 @@
+* {
+    background-color: #f0bec9;
+}
+
+h1 {
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-underline-offset: 5px;
+    color: whitesmoke;
+    /* background-color: #cdd3f6; */
+    background-color: blueviolet;
+}
+
+img {
+    width: 75%;
+    padding-left: 10%;
+}
